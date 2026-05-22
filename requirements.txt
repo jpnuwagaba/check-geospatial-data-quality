@@ -1,0 +1,7 @@
+streamlit
+geopandas
+pyogrio
+pandas
+fiona
+shapely
+rasterio
